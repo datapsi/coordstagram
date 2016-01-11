@@ -6,9 +6,9 @@
     "maps",
     "leaflet"
   ],
-  "website": "https://github.com/toddwschneider/coordstagram",
-  "repository": "https://github.com/toddwschneider/coordstagram",
-  "logo": "https://raw.githubusercontent.com/toddwschneider/coordstagram/master/public/images/apple-icon.png",
+  "website": "https://github.com/datapsi/coordstagram",
+  "repository": "https://github.com/datapsi/coordstagram",
+  "logo": "https://raw.githubusercontent.com/datapsi/coordstagram/master/public/images/apple-icon.png",
   "success_url": "/",
   "scripts": {
     "postdeploy": "bundle exec rake db:migrate && bundle exec rake initial_backfill"
